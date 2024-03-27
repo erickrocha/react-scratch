@@ -1,10 +1,9 @@
 import React from "react";
+import Main from "./layout/Main";
 
 const App = () => {
     return (
-        <h1>
-            Hello world! I am using react
-        </h1>
+        <Main />
     )
 }
 
