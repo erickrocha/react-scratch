@@ -6,11 +6,11 @@ const Main = () => {
             <div className="header">
                 Top menu
             </div>
-            <div className="d-flex flex-grow-1">
-                <div className="d-flex bg-success w-25 h-100">
+            <div className="body">
+                <div className="left">
                     Left Menu
                 </div>
-                <div className="d-flex flex-grow-1 bg-info h-100">
+                <div className="right">
                     Body
                 </div>
             </div>
